@@ -34,4 +34,6 @@ Silahkan WhatsApp ke : 0812-1909-3977
 ## Screenshots
 
 ![Halaman Admin](https://github.com/asratech/aplikasi-permintaan-barang/blob/master/Halaman%20Admin.png)
+![List Permintaan](https://github.com/asratech/aplikasi-permintaan-barang/blob/master/List%20Permintaan.png)
+![List Permintaan](https://github.com/asratech/aplikasi-permintaan-barang/blob/master/Permintaan%20Masuk.png)
 
