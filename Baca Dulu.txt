@@ -1,0 +1,13 @@
+Untuk User Aplikasi
+
+Admin
+user : admin
+pass : admin
+
+User
+user : user
+pass : user
+
+IT
+user : it
+pass : 123
