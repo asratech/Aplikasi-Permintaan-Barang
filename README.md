@@ -13,6 +13,7 @@ Aplikasi managemen permintaan barang untuk kantor anda, dengan adanya aplikasi i
 - List permintaan (Ditolak atau diterima)
 - Tampilan dashboard SBAdmin 2
 - Login password menggunakan BCrypt agar lebih aman
+- Upload surat permintaan barang
 - Dibuat dengan CodeIgniter 3
 - Bebas di custom
 
@@ -37,3 +38,14 @@ Silahkan WhatsApp ke : 0812-1909-3977
 ![List Permintaan](https://github.com/asratech/aplikasi-permintaan-barang/blob/master/List%20Permintaan.png)
 ![List Permintaan](https://github.com/asratech/aplikasi-permintaan-barang/blob/master/Permintaan%20Masuk.png)
 
+## LOG VERSION
+
+### Version 2.7 (25 Jul 2022)
+- Penambahan fitur upload dokumen
+- Penambahan download file yang di upload
+- Perubahan nama dokumen yang diupload menjadi (REQ-Y-Time contoh : REQ-2022-23091100)
+- Perubahan nomor register menjadi REQ/y/Nomor Urut misal REQ/22/000001
+- Update SBAdmin theme
+- Perbaikan beberapa Bug
+- Update List permintaan
+- Penambahan status permintaan (diproses)
