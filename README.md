@@ -3,6 +3,8 @@
 
 Aplikasi managemen permintaan barang untuk kantor anda, dengan adanya aplikasi ini mempermudah divisi untuk managemen permintaan dan tracking permintaan apakah ditolak atau diterima.
 
+## APLIKASI VERSI TERBARU SILAHKAN HUBUNGI SAYA WA (0812-1909-3977)
+
 ## Fitur Aplikasi
 
 - Multi user
