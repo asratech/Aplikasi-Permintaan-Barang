@@ -4,7 +4,8 @@
 Aplikasi managemen permintaan barang untuk kantor anda, dengan adanya aplikasi ini mempermudah divisi untuk managemen permintaan dan tracking permintaan apakah ditolak atau diterima.
 
 ## APLIKASI VERSI TERBARU SILAHKAN HUBUNGI SAYA WA (0812-1909-3977)
-### LOG VERSIN https://github.com/asratech/aplikasi-permintaan-barang/blob/master/README.md#log-version
+
+### LOG VERSION https://github.com/asratech/aplikasi-permintaan-barang/blob/master/README.md#log-version
 
 ## Fitur Aplikasi
 
